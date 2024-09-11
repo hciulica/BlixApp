@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Album One",
+    "artist": "Artist A",
+    "coverImage": "https://dummyimage.com/150x150/000/fff&text=Album+1",
+    "releaseYear": 2020,
+    "tracks": ["Intro", "Melody of Dreams", "Echoes of the Past"]
+  },
+  {
+    "title": "Album Two",
+    "artist": "Artist A",
+    "coverImage": "https://dummyimage.com/150x150/111/fff&text=Album+2",
+    "releaseYear": 2021,
+    "tracks": ["Awaken", "Journey Begins"]
+  },
+  {
+    "title": "Album Three",
+    "artist": "Artist C",
+    "coverImage": "https://dummyimage.com/150x150/222/fff&text=Album+3",
+    "releaseYear": 2019,
+    "tracks": ["Sunrise", "Twilight Dreams", "Dusk Falls", "Midnight Serenade"]
+  },
+  {
+    "title": "Album Four",
+    "artist": "Artist D",
+    "coverImage": "https://dummyimage.com/150x150/333/fff&text=Album+4",
+    "releaseYear": 2022,
+    "tracks": ["Solo Journey"]
+  },
+  {
+    "title": "Album Five",
+    "artist": "Artist E",
+    "coverImage": "https://dummyimage.com/150x150/444/fff&text=Album+5",
+    "releaseYear": 2018,
+    "tracks": [
+      "Opening Act",
+      "Rhythms of Life",
+      "Chasing Shadows",
+      "Echoed Beats",
+      "Finale"
+    ]
+  },
+  {
+    "title": "Album Six",
+    "artist": "Artist F",
+    "coverImage": "https://dummyimage.com/150x150/555/fff&text=Album+6",
+    "releaseYear": 2023,
+    "tracks": ["New Beginnings", "Soundscape", "Reflections", "Eternal Echo"]
+  },
+  {
+    "title": "Album Seven",
+    "artist": "Artist G",
+    "coverImage": "https://dummyimage.com/150x150/666/fff&text=Album+7",
+    "releaseYear": 2021,
+    "tracks": [
+      "The Awakening",
+      "Lost in Time",
+      "Echoes of Silence",
+      "Final Chapter"
+    ]
+  }
+]
