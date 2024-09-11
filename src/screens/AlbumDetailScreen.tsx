@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     color: '#777', // Lighter grey color for the release year
     marginBottom: 10, // Space below the release year
   },
-  // Note: 'track' and 'trackTitle' styles are not used in this component, can be removed if not needed
+
 });
 
 export default function AlbumDetailScreen({ route }: AlbumDetailScreenProps) {
